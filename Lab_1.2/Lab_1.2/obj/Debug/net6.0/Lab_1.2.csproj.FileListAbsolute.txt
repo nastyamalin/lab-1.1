@@ -1,0 +1,17 @@
+C:\Users\Asus\Desktop\uni\Lab_1.2\Lab_1.2\bin\Debug\net6.0\Lab_1.2.exe
+C:\Users\Asus\Desktop\uni\Lab_1.2\Lab_1.2\bin\Debug\net6.0\Lab_1.2.deps.json
+C:\Users\Asus\Desktop\uni\Lab_1.2\Lab_1.2\bin\Debug\net6.0\Lab_1.2.runtimeconfig.json
+C:\Users\Asus\Desktop\uni\Lab_1.2\Lab_1.2\bin\Debug\net6.0\Lab_1.2.dll
+C:\Users\Asus\Desktop\uni\Lab_1.2\Lab_1.2\bin\Debug\net6.0\Lab_1.2.pdb
+C:\Users\Asus\Desktop\uni\Lab_1.2\Lab_1.2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\uni\Lab_1.2\Lab_1.2\obj\Debug\net6.0\Lab_1.2.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\uni\Lab_1.2\Lab_1.2\obj\Debug\net6.0\Lab_1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\uni\Lab_1.2\Lab_1.2\obj\Debug\net6.0\Lab_1.2.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\uni\Lab_1.2\Lab_1.2\obj\Debug\net6.0\Lab_1.2.AssemblyInfo.cs
+C:\Users\Asus\Desktop\uni\Lab_1.2\Lab_1.2\obj\Debug\net6.0\Lab_1.2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\uni\Lab_1.2\Lab_1.2\obj\Debug\net6.0\Lab_1.2.csproj.CopyComplete
+C:\Users\Asus\Desktop\uni\Lab_1.2\Lab_1.2\obj\Debug\net6.0\Lab_1.2.dll
+C:\Users\Asus\Desktop\uni\Lab_1.2\Lab_1.2\obj\Debug\net6.0\refint\Lab_1.2.dll
+C:\Users\Asus\Desktop\uni\Lab_1.2\Lab_1.2\obj\Debug\net6.0\Lab_1.2.pdb
+C:\Users\Asus\Desktop\uni\Lab_1.2\Lab_1.2\obj\Debug\net6.0\Lab_1.2.genruntimeconfig.cache
+C:\Users\Asus\Desktop\uni\Lab_1.2\Lab_1.2\obj\Debug\net6.0\ref\Lab_1.2.dll
